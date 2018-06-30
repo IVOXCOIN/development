@@ -7,7 +7,7 @@ Info iVOX Token
 
 iVOX Token will allow you not only to invest in a Cryptoactive, it is also a business model that will allow you to receive more coins regardless of the value of the asset in the market through the iVOX Token investment funds you can invest your assets in this center. business receiving an exponential monthly rate at 3.5% per month and you will receive your iVOX Tokens in your portfolio once your contract ends each month, when investing in iVOX do not open another investment model more than the monthly rate, if you want to invest them again you should do a new investment to continue multiplying your assets. iVOX is an asset that does not allow mining in its code, so the only way to obtain the asset is by buying it or by investing it in our investment fund.
 
-TokeniVOX (IVOX) Contract: 0x34fbb24940304675694bc2090bee3a655e623fc5
+TokeniVOX (iVOX) Contract: 0x34fbb24940304675694bc2090bee3a655e623fc5
 
 Total created tokens: 35 million
 
